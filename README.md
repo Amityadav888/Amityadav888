@@ -23,7 +23,7 @@ I'm a **Web Developer** with a love for building full-stack applications using m
 ---
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-himanshu-karnwal&show_icons=true&locale=en&layout=compact" alt="dev-himanshu-karnwal" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu-karnwal&" alt="dev-himanshu-karnwal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amityadav888&show_icons=true&locale=en&layout=compact" alt="Amityadav888" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amityadav888&" alt="Amityadav888" /></p>
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/) *(Update this)*
