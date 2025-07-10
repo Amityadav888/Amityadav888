@@ -1,3 +1,6 @@
+
+
+
 # 👋 Hi, I'm Amit Yadav
 
 I'm a **Web Developer** with a love for building full-stack applications using modern technologies.
@@ -11,6 +14,8 @@ I'm a **Web Developer** with a love for building full-stack applications using m
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -22,15 +27,19 @@ I'm a **Web Developer** with a love for building full-stack applications using m
 
 ---
 
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amityadav888&show_icons=true&locale=en&layout=compact" alt="Amityadav888" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amityadav888&" alt="Amityadav888" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amityadav888&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amityadav888&theme=default" alt="GitHub Streak" />
+</p>
 
 ---
 
- 📫 Connect with Me
+## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/) *(Update this)*
 - 📧 amit.yadav@example.com *(Update this)*
-
-
-
